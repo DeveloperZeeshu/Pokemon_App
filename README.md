@@ -22,4 +22,5 @@ A responsive web app built with **React** that fetches data from the [PokéAPI](
 
 ---
 
-
+## 🙋‍♂️ Author
+Made with ❤️ by Jeesan Abbas
